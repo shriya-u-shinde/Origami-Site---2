@@ -1,0 +1,41 @@
+ body{
+      background-color: rgb(230, 222, 222);
+  }
+  h1 {
+    color: rgb(0, 0, 0);
+  }
+
+  .menu {
+      display: flex;
+      justify-content:space-between;
+      background-color: black;
+      font-size: 20px;
+      font-family:Georgia, 'Times New Roman', Times, serif;
+      font-weight: 400;
+      color: white;
+  }
+
+ 
+
+  .header11 {
+    background-color: rgb(209, 246, 217);
+    display: flex;
+    justify-content:space-between;
+  }
+
+  .grid {
+      border: 2px solid black;
+      border-radius: 50px;
+      display:flex;
+     flex-wrap:wrap;
+    
+  }
+
+  .origami {
+      border-radius: 20px;
+      border-color: white;
+
+      width: 310px;
+      font-family:Georgia, 'Times New Roman', Times, serif;
+  }
+
